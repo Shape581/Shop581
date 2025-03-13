@@ -14,7 +14,7 @@
 
 ### 🧰・Fonctionnalité
 
-- Permet de crée des points bleu pour vendre divers
+- Permet de crée des points bleu pour vendre divers items / objets
 
 ### 🔗・Téléchargement
 
